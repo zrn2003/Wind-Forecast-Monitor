@@ -1,0 +1,16 @@
+# Node / Frontend
+node_modules/
+dist/
+.env*
+!.env.example
+.DS_Store
+
+# Python / Backend
+__pycache__/
+*.py[cod]
+*.so
+venv/
+env/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
